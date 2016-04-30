@@ -20,11 +20,11 @@
     opacity: 0;
     z-index: 0;
 	-webkit-backface-visibility: hidden;
-    -webkit-animation: imageAnimation 18s linear infinite 0s;
-    -moz-animation: imageAnimation 18s linear infinite 0s;
-    -o-animation: imageAnimation 18s linear infinite 0s;
-    -ms-animation: imageAnimation 18s linear infinite 0s;
-    animation: imageAnimation 18s linear infinite 0s; 
+    -webkit-animation: imageAnimation 24s linear infinite 0s;
+    -moz-animation: imageAnimation 24s linear infinite 0s;
+    -o-animation: imageAnimation 24s linear infinite 0s;
+    -ms-animation: imageAnimation 24s linear infinite 0s;
+    animation: imageAnimation 24s linear infinite 0s; 
 }
 .cb-slideshow li div { 
     z-index: 1000;
@@ -35,11 +35,11 @@
     text-align: center;
     opacity: 0;
     color: #fff;
-    -webkit-animation: titleAnimation 18s linear infinite 0s;
-    -moz-animation: titleAnimation 18s linear infinite 0s;
-    -o-animation: titleAnimation 18s linear infinite 0s;
-    -ms-animation: titleAnimation 18s linear infinite 0s;
-    animation: titleAnimation 18s linear infinite 0s; 
+    -webkit-animation: titleAnimation 24s linear infinite 0s;
+    -moz-animation: titleAnimation 24s linear infinite 0s;
+    -o-animation: titleAnimation 24s linear infinite 0s;
+    -ms-animation: titleAnimation 24s linear infinite 0s;
+    animation: titleAnimation 24s linear infinite 0s; 
 }
 .cb-slideshow li div h3 { 
     font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
@@ -52,33 +52,33 @@
 }
 .cb-slideshow li:nth-child(2) span { 
     background-image: url(../images/2.jpg);
-    -webkit-animation-delay: 6s;
-    -moz-animation-delay: 6s;
-    -o-animation-delay: 6s;
-    -ms-animation-delay: 6s;
-    animation-delay: 6s; 
+    -webkit-animation-delay: 8s;
+    -moz-animation-delay: 8s;
+    -o-animation-delay: 8s;
+    -ms-animation-delay: 8s;
+    animation-delay: 8s; 
 }
 .cb-slideshow li:nth-child(3) span { 
     background-image: url(../images/3.jpg);
-    -webkit-animation-delay: 12s;
-    -moz-animation-delay: 12s;
-    -o-animation-delay: 12s;
-    -ms-animation-delay: 12s;
-    animation-delay: 12s; 
+    -webkit-animation-delay: 16s;
+    -moz-animation-delay: 16s;
+    -o-animation-delay: 16s;
+    -ms-animation-delay: 16s;
+    animation-delay: 16s; 
 }
 .cb-slideshow li:nth-child(2) div { 
-    -webkit-animation-delay: 6s;
-    -moz-animation-delay: 6s;
-    -o-animation-delay: 6s;
-    -ms-animation-delay: 6s;
-    animation-delay: 6s; 
+    -webkit-animation-delay: 8s;
+    -moz-animation-delay: 8s;
+    -o-animation-delay: 8s;
+    -ms-animation-delay: 8s;
+    animation-delay: 8s; 
 }
 .cb-slideshow li:nth-child(3) div { 
-    -webkit-animation-delay: 12s;
-    -moz-animation-delay: 12s;
-    -o-animation-delay: 12s;
-    -ms-animation-delay: 12s;
-    animation-delay: 12s; 
+    -webkit-animation-delay: 16s;
+    -moz-animation-delay: 16s;
+    -o-animation-delay: 16s;
+    -ms-animation-delay: 16s;
+    animation-delay: 16s; 
 }
 /* Animation for the slideshow images */
 @-webkit-keyframes imageAnimation { 
