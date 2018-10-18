@@ -12,10 +12,18 @@ admin.initializeApp();
 
 exports.doorstate = functions.https.onRequest((req, res) => {
     var state = req.body;
-    var curTime = Date();
-    return admin.firestore().collection('sensors').doc('door').set({state: state, update: curTime}).then((writeResult) => {
-        // Send back a message that we've succesfully written the message
-        return res.json({result: `Message added.`});
-      });
+    if(state == "1"){
+        var curTime = Date();
+        return admin.firestore().collection('sensors').doc('door').set({state: state, lastopen: curTime}).then((writeResult) => {
+            // Send back a message that we've succesfully written the message
+            return res.json({result: `Message added.`});
+          });
+    }else{
+        return admin.firestore().collection('sensors').doc('door').update({state: state}).then((writeResult) => {
+            // Send back a message that we've succesfully written the message
+            return res.json({result: `Message added.`});
+          });
+    }
+    
 });
   
