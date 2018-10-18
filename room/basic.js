@@ -19,15 +19,17 @@ docRef.onSnapshot(function(doc) {
             document.getElementById("doorstate").innerHTML = "Closed";
             document.getElementById("statetxt").innerHTML = "Everything is OK";
             document.getElementById("stateimg").src="./img/good.png";
-            tense = " last";
+            tense = "Last opened at ";
         }else if(state=="1"){ 
             document.getElementById("doorstate").innerHTML = "Open";
             document.getElementById("statetxt").innerHTML = "Room door open";
             document.getElementById("stateimg").src="./img/warn.png";
+            tense = "Since ";
         }else{
             document.getElementById("doorstate").innerHTML = "Unknown";
             document.getElementById("statetxt").innerHTML = "Sensor error";
             document.getElementById("stateimg").src="./img/warn.png";
+            tense = "Last opened at ";
         }
         var lastopen = new Date(data["lastopen"]);
         
@@ -42,7 +44,7 @@ docRef.onSnapshot(function(doc) {
         }else if(hours == 12){
             suffix = "PM";
         }
-        document.getElementById("doorlastopen").innerHTML = "Door"+tense+" opened on " + months[lastopen.getMonth()] + " " + lastopen.getDate() + " at " + hours + ":" + lastopen.getMinutes() + suffix;
+        document.getElementById("doorlastopen").innerHTML = tense+ months[lastopen.getMonth()] + " " + lastopen.getDate() + " at " + hours + ":" + lastopen.getMinutes() + suffix;
     } else {
         // doc.data() will be undefined in this case
         console.log("No such document!");

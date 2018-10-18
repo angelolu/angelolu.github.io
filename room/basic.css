@@ -42,16 +42,16 @@ html, body, .viewport {
  }
 
 .nomarg{
-    margin: 3px 0 0 0;
+    margin: 2px 0 0 0;
 }
 
 .sensor{
-    font-size:15px;
+    font-size:13px;
     font-weight:bold; 
 }
 
 #doorlastopen{
-    font-size:12px;
+    font-size:13px;
 }
 #statetxt, #location{
     text-align: center;
