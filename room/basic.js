@@ -28,7 +28,7 @@ docRef.onSnapshot(function(doc) {
         }else{
             document.getElementById("doorstate").innerHTML = "Unknown";
             document.getElementById("statetxt").innerHTML = "Sensor error";
-            document.getElementById("stateimg").src="./img/warn.png";
+            document.getElementById("stateimg").src="./img/error.png";
             tense = "Last opened at ";
         }
         var lastopen = new Date(data["lastopen"]);
@@ -44,7 +44,13 @@ docRef.onSnapshot(function(doc) {
         }else if(hours == 12){
             suffix = "PM";
         }
-        document.getElementById("doorlastopen").innerHTML = tense+ months[lastopen.getMonth()] + " " + lastopen.getDate() + " at " + hours + ":" + lastopen.getMinutes() + suffix;
+        var minute = "";
+        if (lastopen.getMinutes() < 10){
+            minute = "0" + lastopen.getMinutes();
+        }else{
+            minute = lastopen.getMinutes() + "";
+        }
+        document.getElementById("doorlastopen").innerHTML = tense+ months[lastopen.getMonth()] + " " + lastopen.getDate() + " at " + hours + ":" + minute + suffix;
     } else {
         // doc.data() will be undefined in this case
         console.log("No such document!");
