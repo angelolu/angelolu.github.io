@@ -53,6 +53,15 @@ html, body, .viewport {
 #doorlastopen{
     font-size:13px;
 }
+
+.footer{
+    margin-top: 20px;
+    text-align: right;
+    font-size:13px;
+}
+.white_link{
+    color: black;
+}
 #statetxt, #location{
     text-align: center;
 }
