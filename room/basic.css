@@ -9,18 +9,21 @@
     font-family: 'Roboto', sans-serif;
 }
 
-html, body, .viewport {
+html,
+body,
+.viewport {
     width: 100%;
     height: 100%;
     margin: 0;
-  }
+}
 
-.card_content{
+.card_content {
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
 }
-.page{
+
+.page {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -29,9 +32,12 @@ html, body, .viewport {
     margin-right: auto;
     width: 100%;
     height: 100%;
-    background: #67B26F;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, rgba(75, 162, 205, 0.3), rgba(103, 177, 110, 0.8)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #67B26F;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgba(75, 162, 205, 0.3), rgba(103, 177, 110, 0.8));
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     justify-content: center;
     align-items: center;
 
@@ -40,57 +46,62 @@ html, body, .viewport {
 
 .box {
     display: flex;
-    align-items:center;
- }
+    align-items: center;
+}
 
-.nomarg{
+.nomarg {
     margin: 2px 0 0 0;
 }
 
-.sensor{
-    font-size:13px;
-    font-weight:bold; 
+.sensor {
+    font-size: 13px;
+    font-weight: bold;
 }
 
-#doorlastopen{
-    font-size:13px;
+#doorlastopen {
+    font-size: 13px;
 }
 
-.footer{
+.footer {
     margin-top: 30px;
     text-align: right;
-    font-size:13px;
+    font-size: 13px;
 }
-.white_link{
+
+.white_link {
     color: black;
 }
-#statetxt, #location{
+
+#statetxt,
+#location {
     text-align: center;
 }
 
-#stateimg{
+#stateimg {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 21px;
 }
 
-.card{
+.card {
     border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     min-width: 40%;
     max-width: 1000px;
     overflow: auto;
-    background-color:rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
     flex-grow: 0;
 }
 
 
-.sensordesc{
+.sensordesc {
     margin-left: 8px;
 }
+
 /* On mouse-over, add a deeper shadow */
-.card:hover, .main_card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+.card:hover,
+.main_card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
 }
