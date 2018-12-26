@@ -5,7 +5,7 @@ crawlertitle: "Home - Angelo Lu"
 title: "Home"
 summary: "Thoughts and projects from a biomech eng + compsci student"
 ---
-<h5> This site is currently being updated, more content will be available soon!</h5>
+<article class="index-page"><h5> This site is currently being updated, more content will be available soon!</h5></article>
 {% for post in site.categories.posts limit: 5 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
