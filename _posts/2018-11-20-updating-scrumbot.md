@@ -38,6 +38,8 @@ A big part of this iteration is to improve the device's visual appeal. As previo
 
 In the end, I chose to implement option 2, due to it's solid state design. While I believe option 1 would be more interesting as it incorporates motion, the moving part may be more prone to failure than simple LEDs.
 
+<img src="/assets/images/scrumbotupdatecad.jpg" alt="Scrumbot CAD mock" style="width:80%;max-width:150px;"/>
+
 With a shiny new 3D printer at my disposal, I modeled a case for the new iteration on Fusion 360. The LEDs fit within a protruding bar that also acts as a slight diffuser. All of the parts were made of transparent/white ABS and attached using CA glue. For much improved electronic connections and a dramatic reduction in size, I soldered everything to a protoboard. Soldering the LEDs in the half-assembled case turned out to be the most difficult part of this process as I had to be careful not to touch the case while attaching the wires. Clearly improvements to the design are needed for easier case assembly if I do further iterating. Apart from the new lights, wiring and case, I also swapped out the Adafruit Feather HUZZAH for a cheaper generic nodeMCU clone as I wanted the HUZZAH for other projects.
 
 After slapping on a new label, the newest Scrumbot device was completed!
