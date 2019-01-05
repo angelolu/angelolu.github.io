@@ -12,6 +12,16 @@ layout: default
       &nbsp;/&nbsp;
       <span>{{ page.author }}</span>
     {% endif %}
+
+    &nbsp;/&nbsp;
+    <span>
+      {% assign words = content | number_of_words %}
+      {% if words < 275 %}
+        ~ 1 min read
+      {% else %}
+        ~ {{ words | divided_by:130 }} mins read
+      {% endif %}
+    </span>
   </p>
 
   <div class="post-content">
