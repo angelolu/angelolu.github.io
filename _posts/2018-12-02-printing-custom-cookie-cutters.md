@@ -4,7 +4,7 @@ bg: "3dprintedhugo.jpg"
 title:  "3D Printing Custom Cookie Cutters"
 crawlertitle: "3D Printing Cookie Cutters - Angelo Lu"
 summary: "A surprisingly well recieved novelty"
-exerpt: "An adventure in making customized cat- and dog-shaped cookie cutters for my friends using a 3D printer. Modeling techniques and material considerations are discussed in case you want to make your own!"
+excerpt: "An adventure in making customized cat- and dog-shaped cookie cutters for my friends using a 3D printer. Modeling techniques and material considerations are discussed in case you want to make your own!"
 date:   2018-12-28 10:00:00 +0500
 categories: posts
 tags: 'blog'
