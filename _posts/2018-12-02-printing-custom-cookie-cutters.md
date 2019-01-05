@@ -11,7 +11,7 @@ tags: 'blog'
 author: angelo lu
 ---
 
-<img src="/assets/images/3dprintedcat.jpg" alt="Cat cookies" style="width:90%;max-width:700px;"/>
+<img src="/assets/images/3dprintedcat.jpg" alt="Cat cookies" style="width:90%;max-width:650px;"/>
 The other day I stumbled across an image of some math symbol-shaped cookies, along with the corresponding math symbol shaped cookie cutters. I thought they looked pretty cool and wanted to make my own. A little bit of research revealed that many people have 3D printed custom cookie cutters and that several people even sell these custom cutters online!
 
 After experimenting with different sizes and shapes, printing on my Monoprice Maker Select Plus in Seacans PLA, I created, at the request of my housemates, a cat shaped cookie cutter designed so it would deboss the cookie with our cat's name. After baking a batch of cookies and jokingly posting a picture of the cookies and the cutter to Snapchat, I was surprised when several friends reached out and asked me if I'd make them ones with their own pet's names. Some even mentioned they would pay me!
@@ -20,7 +20,7 @@ Amusing the possibility, I weighed the different cutters and determined that eac
 
 These are relatively easy and cheap to make and make great stocking stuffers! Before printing your own, please read the considerations at the end of this post, however, considering usability and material safety.
 
-<img src="/assets/images/3dprintedcutters.jpg" alt="Cat and dog cutters" style="width:90%;max-width:700px;"/>
+<img src="/assets/images/3dprintedcutters.jpg" alt="Cat and dog cutters" style="width:90%;max-width:650px;"/>
 
 ### Modeling process using Fusion 360
 1. Draw/scan the design that you want or download a picture online. If drawing, using a thicker marker (such as a Sharpie) can make lines easier to trace later.
