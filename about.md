@@ -21,8 +21,9 @@ I'm working towards completing the requirements for my mech eng degree first, fi
 ### Interests
 * **Product development** especially with prototyping using FFF/FDM techniques and the development of accessible 3D printing in general
 * **Automation and robotics** 
-  * There's just something so satisfying about simplifying complex tasks to run at the push of a button
+  * There's just something so satisfying about simplifying complex tasks (both physical and virtual) to run at the push of a button
 * **Project management**
 * **Running** 
   * I'm looking to do my first marathon in 2019?
 
+If you're interested in anything I do or have any questions, please feel free to reach out on [LinkedIn](https://linkedin.com/in/angelolu/)
