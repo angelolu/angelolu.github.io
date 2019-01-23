@@ -4,7 +4,6 @@ bg: "tools.jpg"
 title:  "Building a UWP app as an Android developer"
 crawlertitle: "Building a UWP app as an Android developer - Angelo Lu"
 summary: "Ongoing observations from learning to develop a UWP app"
-excerpt: ""
 date:   2019-01-20 10:00:00 +0500
 categories: posts
 tags: 'blog'
