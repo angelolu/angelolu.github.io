@@ -7,7 +7,6 @@ crawlertitle: "Blog - Angelo Lu"
 summary: "Ideas, project descriptions and reflections"
 active: blog
 ---
-##### This site is currently being updated, more content will be available soon!
 {% for tag in site.tags %}
   {% if tag contains "blog" %}
 

@@ -11,7 +11,6 @@ active: projects
 {% if tag contains "projects" %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
-##### This site is currently being updated, more content will be available soon!
   <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
   <div class="container">
     {% for post in posts %}
