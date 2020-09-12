@@ -57,5 +57,18 @@ When given a release goal, I'm able to communicate with engineers, manufacturing
 </section>
 </details>
 
+### Strengths and Weaknesses
+My technical strengths lie in being able to understand how different systems fit together to identify possible solutions. I'm curious and like tinkering and learning about how things work, which helps me more accurately evaluate the feasibility of systems.
+
+In the past I have found identifying the possible risks to scheduled task completion challenging. When scoping tasks, I tend to underestimate the amount of time required. Although my estimates have become dramatically more accurate over time, I still think that there are techniques to scoping and planning of tasks that I can improve with practice.
+
+### Contribution
+As part of a team, I hope to contribute extensively in project prototyping and communication. My curiosity and experience with working with embedded systems, CAD and external partners make me an good addition to any team hoping to create a proof of concept. I enjoy presenting our successes to outside teams, both technical and non-technical.
+
+### Goals
+I want to build products that have a definite positive impact on people. Some possible fields I have been researching include the use of technology to improve medical logistics, as well as connectivity and networking. Regardless of what field I am in, I hope that my job will allow me to work with new and upcoming technologies at a place that encourages continuous professional and personal exploration and growth.
+
+I look forward to doing technical work early-career but would consider opportunities in project management as well.
+
 ### Fun Facts
-On days off, I love backcountry camping, am in the middle of a marathon training plan and am chasing the perfect settings for my 3D printer. Please feel free to reach out-I’m always open to new opportunities!
+On days off, I love backcountry camping, am in the middle of a marathon training plan and am chasing the perfect settings for my 3D printer. Please feel free to reach out-I’m always open to new opportunities and look forward to my next project.
