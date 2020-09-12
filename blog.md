@@ -5,8 +5,8 @@ permalink: /blog/
 title: "Blog"
 crawlertitle: "Blog - Angelo Lu"
 summary: "Ideas, project descriptions and reflections"
-active: blog
 ---
+active: blog
 {% for tag in site.tags %}
   {% if tag contains "blog" %}
 

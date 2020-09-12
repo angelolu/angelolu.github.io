@@ -1,6 +1,6 @@
 ---
 bg: "boatcontrol-min.jpg"
-layout: page
+layout: default
 permalink: /projects/
 title: "Projects"
 crawlertitle: "Projects - Angelo Lu"
