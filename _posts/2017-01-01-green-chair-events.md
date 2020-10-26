@@ -12,4 +12,4 @@ tags: 'projects'
 tech: ['PHP', 'Wordpress']
 author: angelo lu
 ---
-##### A project by Angelo Lu
+##### A project by Angelo Lu for Green Chair Recycling

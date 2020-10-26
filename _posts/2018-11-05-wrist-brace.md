@@ -12,6 +12,6 @@ tags: 'projects'
 author: angelo lu
 tech: ['Coursework', 'MECH 393', 'CAD']
 ---
-##### Coursework (APSC 202)
+##### Coursework (MECH 393)
 
 <img src="/assets/images/wrist_brace.jpg" alt="wrist brace concept and prototype" style="width:90%;max-width:600px;"/>
