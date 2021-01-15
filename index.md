@@ -1,5 +1,5 @@
 ---
-bg: "1.jpg"
+bg: "4.jpg"
 layout: page
 crawlertitle: "Home - Angelo Lu"
 title: "About Me"
@@ -7,7 +7,7 @@ summary: "Portfolio of a biomech eng student"
 ---
 ## Hi, my name is Angelo! 
 
-I'm a biomechanical engineering student at Queen's University (2021 candidate). With over one year of industry experience developing firmware for embedded devices, I'm seeking to use my knowledge of product development lifecycles to support new product bring-ups.
+I'm a biomechanical engineering student at Queen's University (Kingston, 2021 candidate). With over one year of industry experience developing firmware for embedded devices, I'm seeking to use my knowledge of product development lifecycles to support new product bring-ups.
 
 ### Skills
 
@@ -18,9 +18,9 @@ I'm a biomechanical engineering student at Queen's University (2021 candidate). 
 #### I use **CAD** for **rapid prototyping**
   </summary>
   <section markdown="1">
-Turning doodles on scrap paper into something I can hold in my hands fills me with wonder and pride. I have experience using a variety of CAD software, including Solid Edge, NX and Fusion 360, including animation and basic surfacing.
+Turning doodles on scrap paper into something I can hold in my hands fills me with wonder and excitement. I have experience using CAD software, including Solid Edge, NX and Fusion 360, including animation and basic surfacing. I have some ANSYS experience (ADPL).
 
-I'm especially interested in using FFF 3D printers for prototyping. A personal 3D printer has enabled me to take personal "making" to the next level. Through printing various objects, many of my own design, including enclosures, gears, decor and PPE (3D PPE Kingston), I understand how to design and optimize for the use of this technology and am mindful of its limitations.
+I'm especially interested in using FFF 3D printers for prototyping. A personal 3D printer has enabled me to take personal "making" to the next level. Through many projects, several of my own design, including enclosures, gears, decor and PPE (3D PPE Kingston), I understand how to design and optimize for the use of this technology and am mindful of its limitations.
 </section>
 </details>
 <details>
@@ -29,11 +29,11 @@ I'm especially interested in using FFF 3D printers for prototyping. A personal 3
 #### I **code** and **debug hardware**
   </summary>
   <section markdown="1">
-Since learning Java, I've also worked with C++, C#, Python and Javascript at a proficient level. With my familiarity with Java, I was a passionate native Android developer for several years. Having implemented projects with Javascript and JQuery, however, I'm now looking to experiment with React to break free from a specific OS with PWAs that run on (almost) any device. 
+Since learning Java, I've also worked with C++, C#, Python and Javascript at a proficient level. With my familiarity with Java, I was a passionate native Android developer for several years. With project experience using Javascript and JQuery, however, I'm now experimenting with React and PWAs that run on (almost) any device. 
 
-Most recently, I worked at Cisco Meraki in Software Platform Engineering where I tinkered with embedded bootloaders and kernels for upcoming networking products. Seeing a new PCBA finally boot using a bootloader I’d built was hugely satisfying.
+Recently, I worked at Cisco Meraki on the hardware team doing Software Platform Engineering where I worked on embedded bootloaders and kernels for upcoming networking products. Seeing a new PCBA finally boot using a bootloader I’d built was hugely satisfying.
 
-I was intimately involved in implementing various security technologies in assigned products. These systems rely on peripherals including trust anchors, so communication busses were of upmost interest. I validated SPI, UART, I2C and PCIe busses, among others, powering everything from Serial EEPROMs to PCIe ethernet controllers, both through internal (software) and external (electrical characteristics) means. Notably, I have experience using JTAG tools to debug Intel x86 processors in the server and mobile product families, certain ARM processors and Microchip FPGAs.
+I was intimately involved in implementing various security technologies that relied on peripherals including trust anchors, so communication busses were of upmost interest. I validated SPI, UART, I2C and PCIe busses, among others, powering everything from Serial EEPROMs to PCIe ethernet controllers, both through internal (software) and external (electrical characteristics) means. Notably, I have experience using JTAG tools to debug Intel x86 processors in the server and mobile product families, certain ARM processors and Microchip FPGAs.
 </section>
 </details>
 <details>
@@ -61,7 +61,11 @@ When given a release goal, I'm able to communicate with engineers, manufacturing
 As part of a team, I hope to contribute extensively in project prototyping and communication. My curiosity and experience with working with embedded systems, CAD and external partners make me an good addition to any team hoping to create a proof of concept. I enjoy presenting our successes to outside teams, both technical and non-technical.
 
 ### Goals
-I want to build products that have a definite positive impact on people. Some possible fields I have been researching include the use of technology to improve medical logistics, as well as connectivity and networking. Regardless of what field I am in, I hope that my job will allow me to work with new and upcoming technologies at a place that encourages continuous professional and personal exploration and growth.
+I want to build products that have a definite positive impact on people. Some fields of particular interest:
+* Technology to improve medical logistics
+* Connectivity and networking
+
+Regardless of the field I'm in, I hope that my job will allow me to work with new and upcoming technologies at a place that encourages continuous professional and personal exploration and growth.
 
 I look forward to doing technical work early-career but would consider opportunities in project management as well.
 

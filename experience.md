@@ -1,10 +1,10 @@
 ---
-bg: "rails.jpg"
+bg: "5.jpg"
 layout: page
 title: "Experience"
 crawlertitle: "Experience - Angelo Lu"
 permalink: /experience/
-summary: "Work and Team Experience"
+summary: "Work and team experience"
 active: experience
 ---
 Please find below my **work** experience, followed by experience on **design teams**. If you are looking for examples of my personal and school projects, please check out the [projects section](/projects/).
