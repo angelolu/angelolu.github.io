@@ -5,6 +5,8 @@ crawlertitle: "Home - Angelo Lu"
 title: "About Me"
 summary: "Portfolio of a biomech eng student"
 ---
+<div class="new-banner"><a href="/projects/acoustic-retrieval/"><b>New project!</b> MECH 460 (Capstone 1) experience: acoustic retrieval device, <b>read more here</b></a></div>
+
 ## Hi, my name is Angelo! 
 
 I'm a biomechanical engineering student at Queen's University (Kingston, 2021 candidate). With over one year of industry experience developing firmware for embedded devices, I'm seeking to use my knowledge of product development lifecycles to support new product bring-ups.
@@ -69,5 +71,5 @@ Regardless of the field I'm in, I hope that my job will allow me to work with ne
 
 I look forward to doing technical work early-career but would consider opportunities in project management as well.
 
-### Fun Facts
-On days off, I love backcountry camping, am in the middle of a marathon training plan and am chasing the perfect settings for my 3D printer. Please feel free to reach out-I’m always open to new opportunities and look forward to my next project.
+[//]: <> ### Fun Facts
+[//]: <> On days off, I love backcountry camping, am in the middle of a marathon training plan and am chasing the perfect settings for my 3D printer. Please feel free to reach out-I’m always !open to new opportunities and look forward to my next project.
