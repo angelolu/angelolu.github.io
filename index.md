@@ -9,7 +9,7 @@ summary: "Portfolio of a biomech eng student"
 
 ## Hi, my name is Angelo! 
 
-I'm a biomechanical engineering student at Queen's University (Kingston, 2021 candidate). With over one year of industry experience developing firmware for embedded devices, I'm seeking to use my knowledge of product development lifecycles to support new product bring-ups.
+I'm a biomechanical engineering student at Queen's University (Kingston, 2021 candidate) and an incoming software (BSP) engineer at Cisco Meraki. With over one year of industry experience developing firmware for embedded devices, I'm excited to support new product bring-ups.
 
 ### Skills
 
@@ -33,7 +33,7 @@ I'm especially interested in using FFF 3D printers for prototyping. A personal 3
   <section markdown="1">
 Since learning Java, I've also worked with C++, C#, Python and Javascript at a proficient level. With my familiarity with Java, I was a passionate native Android developer for several years. With project experience using Javascript and JQuery, however, I'm now experimenting with React and PWAs that run on (almost) any device. 
 
-Recently, I worked at Cisco Meraki on the hardware team doing Software Platform Engineering where I worked on embedded bootloaders and kernels for upcoming networking products. Seeing a new PCBA finally boot using a bootloader I’d built was hugely satisfying.
+I worked at Cisco Meraki on the hardware team doing Software Platform Engineering where I worked on embedded bootloaders and kernels for upcoming networking products. Seeing a new PCBA finally boot using a bootloader I’d built was hugely satisfying.
 
 I was intimately involved in implementing various security technologies that relied on peripherals including trust anchors, so communication busses were of upmost interest. I validated SPI, UART, I2C and PCIe busses, among others, powering everything from Serial EEPROMs to PCIe ethernet controllers, both through internal (software) and external (electrical characteristics) means. Notably, I have experience using JTAG tools to debug Intel x86 processors in the server and mobile product families, certain ARM processors and Microchip FPGAs.
 </section>
@@ -68,8 +68,6 @@ I want to build products that have a definite positive impact on people. Some fi
 * Connectivity and networking
 
 Regardless of the field I'm in, I hope that my job will allow me to work with new and upcoming technologies at a place that encourages continuous professional and personal exploration and growth.
-
-I look forward to doing technical work early-career but would consider opportunities in project management as well.
 
 [//]: <> ### Fun Facts
 [//]: <> On days off, I love backcountry camping, am in the middle of a marathon training plan and am chasing the perfect settings for my 3D printer. Please feel free to reach out-I’m always !open to new opportunities and look forward to my next project.

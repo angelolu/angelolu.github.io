@@ -29,6 +29,10 @@ For underwater communication, the system uses a modified [ahoi acoustic modem](h
 <img src="/assets/images/460elec.png" alt="three PCBs, including custom designed PCB" style="width:90%;max-width:600px;"/>
 *(Centre, in purple) custom designed PCB, in the form factor of other [ahoi PCBs](https://collaborating.tuhh.de/smartport/public/ahoi/hardware), containing the LoRa and GPS modules and antenna plugs.*
 
+### Contribution
+
+As a team, we scoped our project, did background research and went through the idea generation and design process. I worked especially closely in the design and selection of the electrical components and laid out the custom PCB (using Eagle). 
+
 ### Personal Reflection
 
 While working developing this design with the team was a largely technical process, I learned and practiced many non-technical skills as well:
