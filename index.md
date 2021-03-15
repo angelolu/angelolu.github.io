@@ -5,7 +5,7 @@ crawlertitle: "Home - Angelo Lu"
 title: "About Me"
 summary: "Portfolio of a biomech eng student"
 ---
-<div class="new-banner"><a href="/projects/acoustic-retrieval/"><b>New project!</b> MECH 460 (Capstone 1) experience: acoustic retrieval device, <b>read more here</b></a></div>
+<div class="new-banner"><a href="https://roverdriver.space"><b>Info:</b> Looking for RoverDriver.space? <b>Tap here</b></a></div>
 
 ## Hi, my name is Angelo! 
 
