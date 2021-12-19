@@ -10,6 +10,9 @@ active: experience
 Please find below my **work** experience, followed by experience on **design teams**. If you are looking for examples of my personal and school projects, please check out the [projects section](/projects/).
 
 ## Work Experience
+
+#### Software Engineer: *Cisco Meraki*
+*San Francisco, CA | June 2021 - Present*
 #### Platform Engineering: *Cisco Meraki*
 *San Francisco, CA + WFH | May 2019 – September 2020 (co-op)*
 * Primary software member on a high-end security appliance from initial bring up to release, with revenue estimates of $70M/year
